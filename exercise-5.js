@@ -12,4 +12,4 @@ function arredonda(valor) {
 
 }
 
-arredonda(0.30000000000000004)
+arredonda(0.3240000000000004)
