@@ -12,6 +12,7 @@ function classificacao_Triangulo(Lado_1, Lado_2, Lado_3) {
   if (Lado_1 !== Lado_2 && Lado_2 !== Lado_3 && Lado_3 !== Lado_1) {
     console.log("triangulo Escaleno");
   } else if (Lado_1 === Lado_2 && Lado_2 === Lado_3 && Lado_3 === Lado_1) {
+
     console.log("triangulo Equilatero");
   } else {
     console.log("triangulo Isosceles");
