@@ -11,3 +11,10 @@ triângulo).</p>
 
 <h2 style="font-size:12px";> execise_3</h2>
  <p>Crie uma função que recebe dois parâmetros, base e expoente, e retorne a base elevada ao expoente.</p>
+ 
+ <h2 style="font-size:12px";> execise_4</h2>
+ <p>Crie uma função que irá receber dois valores, o dividendo e o divisor. A função deverá imprimir o resultado
+e o resto da divisão destes dois valores.</p>
+ 
+ 
+ 
